@@ -1,0 +1,8 @@
+Django>=4.0,<5.0
+djangorestframework
+drf-yasg
+django-admin-interface
+django-colorfield
+factory-boy
+setuptools
+django-model-utils
